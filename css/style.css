@@ -1,0 +1,30 @@
+#jumbotron{
+	display: none;
+}
+.container{
+	min-width: 85%;
+}
+#femaleCeleb[type=text] {
+    text-transform: capitalize;
+}
+#maleCeleb[type=text] {
+    text-transform: capitalize;
+}
+#place1[type=text] {
+    text-transform: capitalize;
+}
+#place2[type=text] {
+    text-transform: capitalize;
+}
+#celeb[type=text] {
+    text-transform: capitalize;
+}
+#header{
+	text-align: center;
+}
+span{
+	text-decoration: underline;
+}
+#jumbotron h1{
+	text-align: center;
+}
